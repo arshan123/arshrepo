@@ -1,0 +1,4 @@
+<groupId>hello</groupId>
+<artifactId>hello project</artifactId>
+<version>4.0</version>
+<packaging>war</packaging>
